@@ -7,4 +7,5 @@ My current focus on my programming journey is to continue to further refine my u
 Over the coming weeks and months you can expect to see more projects uploaded to my Github, more importantly, these projects will be done by me - if you have any tips for me I would love to hear them!
 
 Cheers!
-Michael
+
+-Michael
