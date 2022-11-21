@@ -1,10 +1,8 @@
 Welcome to my GitHub profile!
 
-My name is Michael Kaminski, I'm a self-taught programmer living in Winnipeg, Manitoba and a full-time student at the University . I'm still early in my coding journey - only having started learning since the start of 2022 in January with my intro to Javascript, but I'm eager to continue the process!
+My name is Michael Kaminski, I'm a self-taught programmer living in Winnipeg, Manitoba and a full-time student at the University of Manitoba in the Asper School of Business, having done a semester at Waseda University.
 
-My current focus on my programming journey is to continue to further refine my understanding of Javascript and more specifically React, as well as improve my ability to work with JSX and CSS technologies like Tailwind. 
-
-Over the coming months you can expect to see more projects uploaded to my Github, more importantly, these projects will be done by me - if you have any tips for me I would love to hear them!
+Currently my stack is both Javascript and Typescript and the MERN stack, but plan on learning other languages in the near future. I'm also studying algorithms in my free time when not working on projects. If you're interested, feel free to check in on my progress here or on LinkedIn!
 
 Cheers!
 
